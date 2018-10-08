@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Comcast/watchmen-ping-puppeteer.svg?branch=master)](https://travis-ci.com/Comcast/watchmen-ping-puppeteer)
 Feed a [Puppeteer](puppeteer) script to [Watchmen](watchmen) to run synthetic monitoring.
 
 In your Watchmen directory:
