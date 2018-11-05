@@ -70,7 +70,7 @@ const runScript = (scriptPath, errorCallback, successCallback) => {
 
 function PingService() {};
 
-exports = module.exports = PingService;
+module.exports = PingService;
 
 PingService.prototype.ping = (service, callback) => {
   let pingServiceConfig = get(service, `pingServiceOptions[${serviceName}].scriptPath`);
