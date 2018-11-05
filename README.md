@@ -1,4 +1,8 @@
 [![Build Status](https://travis-ci.com/Comcast/watchmen-ping-puppeteer.svg?branch=master)](https://travis-ci.com/Comcast/watchmen-ping-puppeteer)
+
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Comcast/watchmen-ping-puppeteer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Comcast/watchmen-ping-puppeteer/alerts/)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Comcast/watchmen-ping-puppeteer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Comcast/watchmen-ping-puppeteer/alerts/)
+
 Feed a [Puppeteer](puppeteer) script to [Watchmen](watchmen) to run synthetic monitoring.
 
 In your Watchmen directory:
