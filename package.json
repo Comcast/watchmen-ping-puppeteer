@@ -1,6 +1,6 @@
 {
   "name": "watchmen-ping-puppeteer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Watchmen puppeeter ping plugin",
   "main": "index.js",
   "scripts": {
